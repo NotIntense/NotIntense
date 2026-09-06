@@ -8,6 +8,7 @@ You'll find projects from recently during my on-going learning development exper
 ### Learned Tools:
 > C#, Python, HTML + Javascript & the Unity game engine
 
-## My stuff:
+## My stuff: 
 - [My own website!](https://notintense.com/) 
 - [SCP: Secret Laboratory on Steam](https://store.steampowered.com/app/700330/SCP_Secret_Laboratory/)
+- Of course my Github repos with very bad code!!
