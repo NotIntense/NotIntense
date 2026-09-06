@@ -1,16 +1,14 @@
-## Hi there 👋
+## <b>NotIntense</b> (Inty)
 
-<!--
-**NotIntense/NotIntense** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### First-year Software Engineer at Rochester Institute of Technology
 
-Here are some ideas to get you started:
+Hello!! Welcome to my Github :>
+You'll find projects from recently during my on-going learning development experience or years old when I was brand new. I currently work for [Northwood Studios](https://github.com/northwood-studios) on SCP: Secret Laboratory! I am also currently studying Software Engineering at RIT.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Learned Tools:
+> C#, Python, HTML + Javascript & the Unity game engine
+
+## My stuff: 
+- [My own website!](https://notintense.com/) 
+- [SCP: Secret Laboratory on Steam](https://store.steampowered.com/app/700330/SCP_Secret_Laboratory/)
+- Of course my Github repos with very bad code!!
