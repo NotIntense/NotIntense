@@ -8,6 +8,5 @@ Hello!! Welcome to my Github :> You'll find projects from recently during my on-
 > C#, Python, HTML + Javascript & the Unity game engine
 
 ## My stuff:
-> - [notintense.com](https://notintense.com/) 
-
-> - [SCP: Secret Laboratory on Steam](https://store.steampowered.com/app/700330/SCP_Secret_Laboratory/)
+- [notintense.com](https://notintense.com/) 
+- [SCP: Secret Laboratory on Steam](https://store.steampowered.com/app/700330/SCP_Secret_Laboratory/)
